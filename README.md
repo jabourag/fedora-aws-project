@@ -1,5 +1,5 @@
 # Hardened Fedora Golden Image (AWS)
-# Hardened Cloud Image (AWS) - Fedora Lane
+
 
 ## Project Purpose
 This repository serves as the source of truth for Fedora Lane's secure cloud base image. It addresses the challenge of providing a standardized, CIS-hardened OS environment while maintaining strict security controls (SELinux in `Enforcing` mode, restricted SSH access) and providing an auditable, GUI-based management interface for administrators.
